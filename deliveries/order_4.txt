@@ -1,0 +1,5 @@
+Order Number: 4
+Items:
+Chilly Powder(100 gm) * 1 = 25
+Address: hey
+Total: 25

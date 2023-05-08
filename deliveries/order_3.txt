@@ -1,0 +1,5 @@
+Order Number: 3
+Items:
+Mustard(100 gm) * 1 = 9
+Address: hiiir
+Total: 9
